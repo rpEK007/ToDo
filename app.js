@@ -41,7 +41,7 @@ process.chdir(__dirname);
   var rc;
   try {
     rc = require('rc');
-    
+    console.log('test');
   } catch (e0) {
     try {
       rc = require('sails/node_modules/rc');
