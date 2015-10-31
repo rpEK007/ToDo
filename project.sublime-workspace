@@ -219,16 +219,28 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 185.0,
-		"last_filter": "Package Control: in",
+		"height": 358.0,
+		"last_filter": "in",
 		"selected_items":
 		[
 			[
-				"Package Control: in",
+				"in",
 				"Package Control: Install Package"
 			],
 			[
-				"in",
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"Package Control: in",
 				"Package Control: Install Package"
 			],
 			[
@@ -260,7 +272,7 @@
 	},
 	"console":
 	{
-		"height": 190.0,
+		"height": 487.0,
 		"history":
 		[
 			"clean",
@@ -283,7 +295,6 @@
 	},
 	"expanded_folders":
 	[
-		"/C/projects/TODO_AWS/repo/ToDo"
 	],
 	"file_history":
 	[
@@ -736,6 +747,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 178.0
 	},
 	"pinned_build_system": "",
 	"project": "project.sublime-project",
