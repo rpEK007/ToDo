@@ -1,3 +1,1 @@
-# ToDo
-
-a [Sails](http://sailsjs.org) application
+# Todo Application in Angular.js + Sails.js
